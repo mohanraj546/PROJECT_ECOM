@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/ic_favorites"
+        title="Home"
+        />
+    <tab
+        id="@+id/tab_wishlist"
+        icon="@drawable/shopping"
+        title="Wishlist"
+         />
+    <tab
+        id="@+id/tab_profile"
+        icon="@drawable/ic_friends"
+        title="Profile"
+         />
+    <tab
+        id="@+id/tab_contact"
+        icon="@drawable/ic_restaurants"
+        title="Contact Us"
+         />
+</tabs>

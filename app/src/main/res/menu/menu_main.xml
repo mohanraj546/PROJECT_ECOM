@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_wishList"
+        android:icon="@drawable/shopping"
+        app:showAsAction="always"
+        android:title="Compose">
+    </item>
+    <item
+        android:id="@+id/menu_cart"
+        android:icon="@drawable/shopping"
+        app:showAsAction="always"
+        android:title="Profile">
+    </item>
+</menu>
